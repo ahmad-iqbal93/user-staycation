@@ -4,6 +4,10 @@
 /node_modules
 /.pnp
 .pnp.js
+/server-staycation
+/mongose
+/express_basic
+/nodejs_basic
 
 # testing
 /coverage
